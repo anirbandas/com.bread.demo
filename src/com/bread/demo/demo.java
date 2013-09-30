@@ -21,6 +21,8 @@ public class demo {
 			String product = i.next();
 			System.out.println("Product Name : " + product);
 		}
+		
+		System.out.println("Enhancement for version 1.0");
 	}
 
 }
