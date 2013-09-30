@@ -22,6 +22,8 @@ public class demo {
 			System.out.println("Product Name : " + product);
 		}
 		
+		System.out.println("Enhancement for version 1.0");
+		
 		System.out.println("new branch...");
 		System.out.println("Contact name : " + contacts.getUserContact());
 	}
