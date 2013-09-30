@@ -22,8 +22,10 @@ public class demo {
 			System.out.println("Product Name : " + product);
 		}
 		
+		System.out.println("Enhancement for version 1.0");
+		
 		System.out.println("branch index added");
-		System.out.println("Index No : " + index.getIndex());
+		System.out.println("Index No : " + index.getIndex());	
 	}
 
 }
