@@ -24,8 +24,12 @@ public class demo {
 		
 		System.out.println("Enhancement for version 1.0");
 		
+
 		System.out.println("new branch...");
 		System.out.println("Contact name : " + contacts.getUserContact());
+
+		System.out.println("branch index added");
+		System.out.println("Index No : " + index.getIndex());	
 	}
 
 }
