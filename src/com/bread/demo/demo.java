@@ -21,6 +21,9 @@ public class demo {
 			String product = i.next();
 			System.out.println("Product Name : " + product);
 		}
+		
+		System.out.println("branch index added");
+		System.out.println("Index No : " + index.getIndex());
 	}
 
 }
